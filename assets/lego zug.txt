@@ -1,0 +1,5 @@
+motor
+https://funduino.de/nr-34-motoren-mit-h-bruecke-l298n-ansteuern
+
+reed sensoren:
+https://draeger-it.blog/arduino-lektion-90-reed-kontakt-sensor-modul/?cn-reloaded=1
